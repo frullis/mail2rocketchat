@@ -9,8 +9,8 @@ imap_host = 'mail3.example.org'
 imap_user = 'username'
 imap_pass = '***'
 
-from_addr = "debug@5july.org"
-to_addr = "markus@5july.org"
+from_addr = "debug@example.org"
+to_addr = "markus@example.org"
 
 
 # connect to host using SSL
